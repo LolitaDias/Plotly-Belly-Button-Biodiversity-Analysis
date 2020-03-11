@@ -45,7 +45,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 ![hw](Images/hw03.png)
 
-6. Update all of the plots any time that a new sample is selected.
+
 
 
 ### About the Data
