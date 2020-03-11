@@ -33,7 +33,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 * Use `sample_values` for the marker size.
 
-* Use `otu_ids` for the marker colors.
+
 
 
 
