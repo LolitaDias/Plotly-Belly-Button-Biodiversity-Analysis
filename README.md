@@ -59,7 +59,6 @@ The following task is advanced and therefore optional.
 
 * You will need to modify the example gauge code to account for values ranging from 0 through 9.
 
-
 ### About the Data
 
 Hulcr, J. et al.(2012) _A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable_. Retrieved from: [http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/](http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/)
