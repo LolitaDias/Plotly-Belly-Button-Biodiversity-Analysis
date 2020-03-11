@@ -71,7 +71,7 @@ Deploy your app to a free static page hosting service, such as GitHub Pages. Sub
 
 * Use `console.log` inside of your JavaScript code to see what your data looks like at each step.
 
-* Refer to the [Plotly.js documentation](https://plot.ly/javascript/) when building the plots.
+
 
 ### About the Data
 
