@@ -41,7 +41,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 4. Display the sample metadata, i.e., an individual's demographic information.
 
-5. Display each key-value pair from the metadata JSON object somewhere on the page.
+
 
 
 
