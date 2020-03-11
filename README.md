@@ -27,7 +27,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 3. Create a bubble chart that displays each sample.
 
-* Use `otu_ids` for the x values.
+
 
 
 
