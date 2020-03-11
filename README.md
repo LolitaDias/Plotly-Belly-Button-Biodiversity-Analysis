@@ -19,17 +19,21 @@ The goal of this project was to use JavaScript to present interactive visualizat
 
 https://github.com/LolitaDias/Plotly_Belly-Button-Biodiversity-Analysis/blob/master/data/samples.json
 
+#### Tasks
 
+1. Import the belly button sample data from the JSON file and create a function for web page initialization.
+2. Extract each sample ID number and append it to the HTML dropdown menu container.
+3. Extract and process the demographic information and OTU data for the first sample.
+4. Append demographic information for the first sample to the appropriate HTML container.
+5. Generate a bar chart of the top ten OTUs by concentration in the first sample and connect it to the appropriate HTML container.
+6. Generate a bubble chart of the concentrations of all of the OTUs in the first sample and connect it to the appropriate HTML container.
+7. Generate a gauge chart of the weekly wash frequency of the first sample and connect it to the appropriate HTML container.
+8. Create a function to monitor and extract the currently selected sample ID number from the HTML dropdown menu.
+9. Repeat steps three through seven for the currently selected sample ID number.
 
+#### Results
 
-
-
-
-
-
-
-# Solution published link:
- https://lolitadias.github.io/Plotly_Homework/
+Solution published link: https://lolitadias.github.io/Plotly_Homework/
 
 
 
