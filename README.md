@@ -71,7 +71,6 @@ Deploy your app to a free static page hosting service, such as GitHub Pages. Sub
 
 * Use `console.log` inside of your JavaScript code to see what your data looks like at each step.
 
-
 ### About the Data
 
 Hulcr, J. et al.(2012) _A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable_. Retrieved from: [http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/](http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/)
