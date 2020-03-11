@@ -35,7 +35,6 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 * Use `otu_ids` for the marker colors.
 
-* Use `otu_labels` for the text values.
 
 
 
