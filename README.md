@@ -13,7 +13,6 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 ## Step 1: Plotly
 
-1. Use the D3 library to read in `samples.json`.
 
 
 
